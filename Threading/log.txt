@@ -1,0 +1,18 @@
+ Volume in drive G is production
+ Volume Serial Number is C231-E994
+
+ Directory of G:\Publications
+
+21-09-2019  22:23    <DIR>          .
+21-09-2019  22:23    <DIR>          ..
+21-09-2019  17:11    <DIR>          .vscode
+21-09-2019  19:29               459 concurrency.py
+21-09-2019  19:51    <DIR>          downloaded
+21-09-2019  19:49               834 imageUrls.py
+21-09-2019  22:23                 0 log.txt
+21-09-2019  17:01                24 README.md
+21-09-2019  22:23               248 subprocess.py
+21-09-2019  19:03               678 thread.py
+21-09-2019  22:23    <DIR>          __pycache__
+               6 File(s)          2,243 bytes
+               5 Dir(s)  23,000,285,184 bytes free
