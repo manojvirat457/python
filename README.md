@@ -5,3 +5,4 @@ python code Examples
 2. concurrent
 3. subprocess
 4. closures
+5. Idempotence
